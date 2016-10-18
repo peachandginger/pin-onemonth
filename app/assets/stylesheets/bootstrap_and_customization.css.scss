@@ -1,5 +1,18 @@
-$body-bg: #ecf0f1;
-$navbar-default-bg: #7f8c8d;
-$navbar-default-link-color: white;
-$jumbotron-bg: #bdc3c7;
+@import url('https://fonts.googleapis.com/css?family=Catamaran');
+
+$body-bg: 											#white;
+$font-family-sans-serif:			'Catamaran', sans-serif;
+$navbar-default-bg:							#ecf0f1;
+$navbar-default-link-color: 		black;
+$jumbotron-bg: 									white;
 @import 'bootstrap' ;
+
+.navbar-brand {
+	font-size: 26px;
+	font-weight: medium;
+}
+
+.center {
+	text-align: center;
+}
+
