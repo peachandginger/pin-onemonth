@@ -1,0 +1,19 @@
+current directory: /home/samadhi/Desktop/pin/vendor/cache/ruby/2.3.0/gems/byebug-9.0.6/ext/byebug
+/home/samadhi/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20161020-7395-1k7188t.rb extconf.rb
+creating Makefile
+
+current directory: /home/samadhi/Desktop/pin/vendor/cache/ruby/2.3.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/samadhi/Desktop/pin/vendor/cache/ruby/2.3.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR="
+compiling breakpoint.c
+compiling threads.c
+compiling locker.c
+compiling byebug.c
+compiling context.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/samadhi/Desktop/pin/vendor/cache/ruby/2.3.0/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 byebug.so ./.gem.20161020-7395-oldkzy/byebug
